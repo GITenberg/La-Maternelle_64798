@@ -1,0 +1,34 @@
+_repo: La-Maternelle_64798
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Steinlen, Théophile Alexandre
+    aliases:
+    - Steinlen, A. Th. (Alexandre Théophile)
+    - Steinlen, Theophile Alexandre
+    - Petit-Pierre
+    - Steinlen, Alexandre Théophile
+    - Steinlen, Th. A. (Théophile Alexandre)
+    birthdate: 1859
+    deathdate: 1923
+    gutenberg_agent_id: '49375'
+    url: http://www.gutenberg.org/2009/agents/49375
+    wikipedia: https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Alexandre_Steinlen
+creator:
+  author:
+    agent_name: Frapié, Léon
+    gutenberg_agent_id: '53055'
+    url: http://www.gutenberg.org/2009/agents/53055
+description: ''
+gutenberg_issued: '2021-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64798'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Maternelle
+url: http://www.gutenberg.org/ebooks/64798
